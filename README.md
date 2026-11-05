@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="aprofile-banner.jpg" alt="ESPOL · Ciencia · Innovación · Futuro" width="100%">
+  <img src="profile-banner.jpg" alt="ESPOL · Ciencia · Innovación · Futuro" width="100%">
 </p>
 
 # 👋 ¡Hola! Soy Isaac Quishpillo
